@@ -1,0 +1,17 @@
+{
+  "name": "platzi-tailwindcss-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eliaz Bobadilla <eliaz.bobadilladev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server .",
+    "styles": "tailwindcss -i ./src/css/tailwind.css -o ./public/css/tailwind.css --watch"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "live-server": "^1.2.1",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.22"
+  }
+}

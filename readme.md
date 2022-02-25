@@ -1,10 +1,10 @@
 # Basic Tailwind Platzi Course
 
-In this course we will desing a landing page using Tailwind as CSS framework.
+In this course we will design a landing page using Tailwind as CSS framework.
 
 [Take the course!](https://platzi.com/cursos/tailwind)
 
-## Resources 
+## Resources
 
 - [Tailwind Playground](https://play.tailwindcss.com)
 

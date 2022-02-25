@@ -10,4 +10,4 @@ In this course we will design a landing page using Tailwind as CSS framework.
 
 ## License
 
-My notes are licensed under the MIT License.
+Project licensed under the MIT License.

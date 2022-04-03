@@ -4,7 +4,7 @@ In this course we will design a landing page using Tailwind as CSS framework.
 
 [Take the course!](https://platzi.com/cursos/tailwind)
 
-> It's on spanish 😆
+> It's on Spanish 😆
 
 ## Resources
 
